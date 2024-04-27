@@ -31,8 +31,16 @@ github_username:  adbatista
 
 # Build settings
 theme: minima
-plugins:
-  - jekyll-feed
+plugins: []
+  # - jekyll-feed
+
+# ---
+# layout: articles
+# title: Articles - Brief
+# articles:
+#   data_source: site.sample_page
+#   type: brief
+# ---
 
 # Exclude from processing.
 # The following items will not be processed, by default.
